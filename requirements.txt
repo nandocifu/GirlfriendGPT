@@ -1,3 +1,6 @@
 steamship @ git+https://github.com/steamship-core/python-client.git@main
 openai
 python-telegram-bot
+langchain==0.0.200
+scrapetube
+pytube
